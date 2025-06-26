@@ -53,9 +53,9 @@ contributed to:
 
 ## reach me
 
-- 📫 [linkedin](https://www.linkedin.com/in/parth-doshi/)  
+- 📫 [linkedin](https://www.linkedin.com/in/parthdoshiml/)  
 - 🧠 [email](mailto:parth.doshi@dal.ca)  
-- 🏓 if i’m not coding, i’m probably at **CCubed** (come say hi)
+- 🏓 if i’m not coding, i’m probably at **[CCubed](https://www.ccubed.dev/)** (come say hi)
 
 ---
 
