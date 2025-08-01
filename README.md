@@ -5,7 +5,7 @@ cs @ dalhousie | building things with ai, data, and way too many open tabs (I as
 
 ---
 
-## what i’m working on
+## what i’ve worked on
 
 - 🛳️ **vessel trajectory modeling** — generative + physics-based approaches to predict how ships move  
 - 🌍 **ais data pipelines** — denoising, segmenting, and interpolating satellite and marine signals  
@@ -36,18 +36,11 @@ cs @ dalhousie | building things with ai, data, and way too many open tabs (I as
 
 ## experience / projects
 
-- 🧪 **deepsense** – marine ml intern: vessel detection, remote sensing, trajectory modeling  
-- 🔬 **maps lab** – research assistant: bci signal processing and SSVEP decoding  
+- 🧪 **deepsense** – data science intern:  
+- 🔬 **maps lab** – research assistant:  
 - 🛠️ **project mantis** – ai systems for marine intel + automation  
 - 🧰 **vesselviz**, **NurseNavigator**, **steadylinestabilizer**, and other odd tools
 
----
-
-## open source + collab
-
-contributed to:
-- `aisdb` (vessel data handling + encoding)
-- random smaller tools (data cleaning, visualization, some opencv utils)
 
 ---
 
@@ -58,8 +51,3 @@ contributed to:
 - 🏓 if i’m not coding, i’m probably at **[CCubed](https://www.ccubed.dev/)** (come say hi)
 
 ---
-
-## last thing
-
-not trying to be the smartest in the room. just want to build good things with curious people.  
-
