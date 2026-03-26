@@ -2,9 +2,7 @@
 
 # 🌊 Hey, I'm Parth 👋  
 AI + ML researcher working on how vessels move, why they move that way, and how machines can learn it without hallucinating.
-<div align="center">
-  <img src="Untitled video - Made with Clipchamp.gif" width="100%" />
-</div>
+
 
 # 💫 About Me  
 I work at the intersection of **machine learning**, **physics-based modeling**, and **maritime intelligence**.  
